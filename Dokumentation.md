@@ -38,3 +38,12 @@ Wenn jemand einen neuen Laptop bestellt, sieht alles etwas anders aus.
 6. Falls nötig, Software mit Ivanti draufladen
 7. Laptop ausliefern / Für Abholung vorbereiten & Kunde informieren
 8. Task schliessen & Eintrag aus Excel (Laptop-Bestellliste) löschen
+
+## Umzüge
+
+Teilweise ändern Büros ihre Standorte und müssen geräumt, abgebaut und am neuen Standort wieder neu aufgebaut werden. Auch dort helfen wir mit, mit..
+
+* Ware vorbeibringen
+* Monitore, Docks, Steckdosen und Drucker einrichten
+* Verkabeln
+* Testen
