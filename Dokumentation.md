@@ -16,4 +16,11 @@ Immer, wenn unsere zwei Container (Karton, Plastik) voll werden, müssen wir die
 
 ### Bestellungen vorbereiten
 
-Im ServiceNow haben User die Möglichkeit, elektronische Produkte bei uns im ITP-Shop zu bestellen. Dazu erstellen sie eine sogenannte **Catalog Task**. 
+Im ServiceNow haben User die Möglichkeit, elektronische Produkte bei uns im ITP-Shop zu bestellen. Dazu erstellen sie eine sogenannte **Catalog Task**. Der Ablauf, um diese zu lösen, sieht folgt aus:
+
+1. Task assign (Ich übernehme diese Task)
+2. Locker Management öffnen und einen leeren Locker auswählen
+3. Dem Locker ein neues Ticket zuweisen
+4. Informationen aus dem Ticket von Service Now übernehmen
+5. Label printen, auf Produkt kleben
+6. Locker öffnen und Produkt in den ausgewählten Locker stellen
