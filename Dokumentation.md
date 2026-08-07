@@ -24,3 +24,17 @@ Im ServiceNow haben User die Möglichkeit, elektronische Produkte bei uns im ITP
 4. Informationen aus dem Ticket von Service Now übernehmen
 5. Label printen, auf Produkt kleben
 6. Locker öffnen und Produkt in den ausgewählten Locker stellen
+7. Task schliessen
+
+### Neue Laptop-Bestellung
+
+Wenn jemand einen neuen Laptop bestellt, sieht alles etwas anders aus.
+
+1. Task assign
+2. Neuer Eintrag in die Laptop-Bestellliste (Excel)
+3. Laptop auspacken und neue Einträge erstellen (Service Now & Device Import)
+4. Anstecken & Setup durchführen
+5. Warten, bis das Setup fertig ist
+6. Falls nötig, Software mit Ivanti draufladen
+7. Laptop ausliefern / Für Abholung vorbereiten & Kunde informieren
+8. Task schliessen & Eintrag aus Excel (Laptop-Bestellliste) löschen
