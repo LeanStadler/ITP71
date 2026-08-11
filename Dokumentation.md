@@ -39,6 +39,17 @@ Wenn jemand einen neuen Laptop bestellt, sieht alles etwas anders aus.
 7. Laptop ausliefern / Für Abholung vorbereiten & Kunde informieren
 8. Task schliessen & Eintrag aus Excel (Laptop-Bestellliste) löschen
 
+
+### Alte Laptops löschen
+
+Wenn Kunden neue Geräte kaufen, kann es sein, dass sie ihr altes Gerät uns zurückgeben, da sie es nicht mehr brauchen. Dann müssen wir:
+
+* Laptop entgegennehmen
+* BUZ-Nummer unten lesen
+* IVANTI starten und das Gerät mit der BUZ-Nummer finden
+* Rechtsklick > Delete
+* Laptop auf Ablagestapel zurücklegen
+
 ## Umzüge
 
 Teilweise ändern Büros ihre Standorte und müssen geräumt, abgebaut und am neuen Standort wieder neu aufgebaut werden. Auch dort helfen wir mit, mit..
@@ -48,12 +59,4 @@ Teilweise ändern Büros ihre Standorte und müssen geräumt, abgebaut und am ne
 * Verkabeln
 * Testen
 
-## Alte Laptops löschen
 
-Wenn Kunden neue Geräte kaufen, kann es sein, dass sie ihr altes Gerät uns zurückgeben, da sie es nicht mehr brauchen. Dann müssen wir:
-
-* Laptop entgegennehmen
-* BUZ-Nummer unten lesen
-* IVANTI starten und das Gerät mit der BUZ-Nummer finden
-* Rechtsklick > Delete
-* Laptop auf Ablagestapel zurücklegen
