@@ -33,7 +33,7 @@ Wenn jemand einen neuen Laptop bestellt, sieht alles etwas anders aus.
 1. Task assign
 2. Neuer Eintrag in die Laptop-Bestellliste (Excel)
 3. Laptop auspacken und neue Einträge erstellen (Service Now & Device Import)
-4. Anstecken & Setup durchführen
+4. An der Station anstecken & Setup durchführen (Vorher noch Unique Mac-Adresse & Thunderbolt Boot Support einstellen)
 5. Warten, bis das Setup fertig ist
 6. Falls nötig, Software mit Ivanti draufladen
 7. Laptop ausliefern / Für Abholung vorbereiten & Kunde informieren
@@ -47,3 +47,13 @@ Teilweise ändern Büros ihre Standorte und müssen geräumt, abgebaut und am ne
 * Monitore, Docks, Steckdosen und Drucker einrichten
 * Verkabeln
 * Testen
+
+## Alte Laptops löschen
+
+Wenn Kunden neue Geräte kaufen, kann es sein, dass sie ihr altes Gerät uns zurückgeben, da sie es nicht mehr brauchen. Dann müssen wir:
+
+* Laptop entgegennehmen
+* BUZ-Nummer unten lesen
+* IVANTI starten und das Gerät mit der BUZ-Nummer finden
+* Rechtsklick > Delete
+* Laptop auf Ablagestapel zurücklegen
