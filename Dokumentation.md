@@ -33,7 +33,7 @@ Wenn jemand einen neuen Laptop bestellt, sieht alles etwas anders aus.
 1. Task assign
 2. Neuer Eintrag in die Laptop-Bestellliste (Excel)
 3. Laptop auspacken und neue Einträge erstellen (Service Now & Device Import)
-4. An der Station anstecken & Setup durchführen (Vorher noch Unique Mac-Adresse & Thunderbolt Boot Support einstellen)
+4. An der Station anstecken & Setup durchführen (Vorher noch Unique Mac-Adresse & Thunderbolt Boot Support einstellen. Falls ein Fehler kommt, Windows BYOS Boot deaktivieren.)
 5. Warten, bis das Setup fertig ist
 6. Falls nötig, Software mit Ivanti draufladen
 7. Laptop ausliefern / Für Abholung vorbereiten & Kunde informieren
